@@ -22,9 +22,9 @@ We believe that the aesthetics of your personal space should resonate with your 
 
 Here's a sneak peek of what you can expect from our collection:
 
-![Wallpaper Preview 1](astronaut.png)
-![Wallpaper Preview 2](tokyo.png)
-![Wallpaper Preview 3](cybergirl.png)
+![Wallpaper Preview 1](assets/astronaut.png)
+![Wallpaper Preview 2](assets/tokyo.png)
+![Wallpaper Preview 3](assets/cybergirl.png)
 
 *Note: These are just a few examples from our extensive collection. Check out the repository to discover more.*
 
